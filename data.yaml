@@ -1,0 +1,13 @@
+customers:
+    - id: 1259815814
+      vip: true
+    - id: 1259815815
+      vip: true
+    - id: 1259815816
+      vip: false
+    - id: 1259815817
+      vip: true
+    - id: 1259815818
+      vip: false
+    - id: 1259815819
+      vip: false

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  A SAMPLE set of slides  -->
+<customers>
+	<customer vip="true">1259815814</customer>
+	<customer vip="true">1259815815</customer>
+	<customer vip="false">1259815816</customer>
+	<customer vip="true">1259815817</customer>
+	<customer vip="false">1259815818</customer>
+	<customer vip="false">1259815819</customer>
+</customers>
